@@ -1,0 +1,20 @@
+path: /kaggle/input/airforce-data/Data
+train: images/train
+val: images/valid
+
+nc: 5
+
+names:
+   0: 'Bird'
+   1: 'Drone'
+   2: 'Helicopter'
+   3: 'Plane'
+   4: 'Jet'
+ 
+
+# roboflow:
+#   workspace: sky-sd2zq
+#   project: bird_only-pt0bm
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/sky-sd2zq/bird_only-pt0bm/dataset/1
