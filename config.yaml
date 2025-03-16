@@ -1,4 +1,4 @@
-path: C:\Users\ASUS\Desktop\Flying Object\Data
+path: D:\Flying-Object/Data
 train: images/train
 val: images/valid
 test: images/test
